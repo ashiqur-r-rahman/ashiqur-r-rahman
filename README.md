@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
+<h1 align="center">Hi there, I'm Ashiqur Rahman</h1>
 <h3 align="center">CSE Student @ RUET | Android Developer | Cybersecurity & App Development Enthusiast</h3>
 
 <p align="center">
