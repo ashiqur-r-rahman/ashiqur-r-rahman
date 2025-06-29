@@ -26,9 +26,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-ffffff?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=007396" alt="Java"/></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 ---
